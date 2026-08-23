@@ -1,23 +1,12 @@
 ---
-title: Introduction to Java
+title: "Woche 1 - Organisation, Einführung in CPS"
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+30.09.
+: **Vorlesung**{: .label .label-purple }[Organisation, Einführung in CPS](#)
+  : Raum 3.113, 9:30-11:00
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+30.09.
+: **Übung**{: .label .label-blue }[Organisation, Einführung in CPS](#)
+  : Raum 3.113, 11:00-12:00
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }

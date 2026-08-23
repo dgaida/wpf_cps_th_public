@@ -17,50 +17,52 @@ timeline:
   - '4:00 PM'
   - '4:30 PM'
   - '5:00 PM'
-  - '5:30 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
         start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
+        end: 11:00 AM
+        location: 3.113 Campus Gummersbach
+        class: lecture
       - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
-  - name: Thursday
-  - name: Friday
-    events:
+        start: 11:00 AM
+        end: 12:00 PM
+        location: 3.113 Campus Gummersbach
+        class: section
       - name: Lecture
         start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
+        end: 11:00 AM
+        location: 1.242 Campus Gummersbach
+        class: lecture
       - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 11:00 AM
+        end: 12:00 PM
+        location: 1.242 Campus Gummersbach
+        class: section
+  - name: Thursday
+  - name: Friday
 ---
+
+## Kalender abonnieren
+
+Statt die Datei manuell herunterzuladen, können Sie den Kalender auch abonnieren. Dadurch werden Änderungen am Zeitplan automatisch in Ihren Kalender übernommen.
+
+Kopieren Sie dazu den folgenden Link:
+`https://raw.githubusercontent.com/dgaida/wpf_cps_th_public/main/assets/wpf_cps_zeitplan.ics`
+
+### Anleitung für Outlook (Web)
+1. Öffnen Sie Ihren Outlook-Kalender.  
+2. Klicken Sie auf **Kalender hinzufügen**.  
+3. Wählen Sie **Aus dem Web abonnieren**.  
+4. Fügen Sie die oben kopierte URL ein und vergeben Sie einen Namen.  
+5. Klicken Sie auf **Importieren**.  
+
+### Anleitung für Google Calendar
+1. Öffnen Sie Google Calendar.  
+2. Klicken Sie neben "Weitere Kalender" auf das **+** Symbol.
+3. Wählen Sie **Per URL**.  
+4. Fügen Sie die oben kopierte URL ein.  
+5. Klicken Sie auf **Kalender hinzufügen**.  
