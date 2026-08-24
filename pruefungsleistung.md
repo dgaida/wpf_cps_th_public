@@ -7,7 +7,7 @@ nav_order: 5
 
 # Prüfungsleistung
 
-Auf dieser Seite finden Sie alle Informationen zur Prüfungsleistung für das Modul "Deep Learning, Machine Learning und KI".
+Auf dieser Seite finden Sie alle Informationen zur Prüfungsleistung für das Modul "Cyber-Physische Systeme".
 
 ## Informationen zur Klausur
 
@@ -15,11 +15,11 @@ Auf dieser Seite finden Sie alle Informationen zur Prüfungsleistung für das Mo
 
 ## Alte Klausuren
 
-- *Noch keine alten Klausuren hochgeladen.*
+- *Noch keine alten Klausuren hochgeladen.*  
 
 ## Aufgabensammlung
 
-- *Noch keine Aufgabensammlungen hochgeladen.*
+- *Noch keine Aufgabensammlungen hochgeladen.*  
 
 ---
 
