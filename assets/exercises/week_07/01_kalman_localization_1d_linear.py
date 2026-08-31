@@ -376,12 +376,12 @@ def run_kalman(
 
     print('estimation error:', calc_estim_err(b_true, xs_arr[:, 0]))
 
-    print('b_estim:', xs_arr[:, 0])
-    print('v_estim:', xs_arr[:, 1])
-    print('a_estim:', xs_arr[:, 2])
-    print('var_b:', cov_arr[:, 0, 0])
-    print('var_v:', cov_arr[:, 1, 1])
-    print('var_a:', cov_arr[:, 2, 2])
+    # print('b_estim:', xs_arr[:, 0])
+    # print('v_estim:', xs_arr[:, 1])
+    # print('a_estim:', xs_arr[:, 2])
+    # print('var_b:', cov_arr[:, 0, 0])
+    # print('var_v:', cov_arr[:, 1, 1])
+    # print('var_a:', cov_arr[:, 2, 2])
 
     return xs_arr, b_true, cov_arr, y, Rs, num_y
 
