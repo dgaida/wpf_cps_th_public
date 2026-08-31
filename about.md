@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
-description: >-
-    Course policies and information.
+title: Über das Modul
+description: Informationen zum Kurs Cyber-Physische Systeme, Kursinhalten, Vorlesungen, Übungen, Ressourcen und Prüfungsleistungen.
+nav_order: 1
 ---
 
-# About
+# Über das Modul "Cyber-Physische Systeme"
 {:.no_toc}
 
-## Table of contents
+## Inhaltsverzeichnis
 {: .no_toc .text-delta }
 
 1. TOC
@@ -16,18 +16,65 @@ description: >-
 
 ---
 
-## About
+## Modulübersicht
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Das Modul **Cyber-Physische Systeme** ist ein Wahlpflichtfach an der Technischen Hochschule Köln. Ziel des Moduls ist es, Studierenden fundierte Kenntnisse zur Modellierung, Steuerung und Vernetzung cyber-physischer Systeme (CPS) – wie beispielsweise Roboterarmen und autonom fahrenden Plattformen – zu vermitteln.
 
-## Lecture
+### Lernziele
+Die Studierenden können Komponenten eines Cyber-Physischen Systems (CPS) designen (am Beispiel eines Roboterarms und einer autonom fahrenden Plattform), indem sie:
+* Cyber-physische Systeme modellieren und deren aktuellen Zustand schätzen,
+* Sensoren und Aktoren nutzen,
+* Algorithmen zur Modellierung der Umgebung auswählen und auf eingebetteter Hardware implementieren,
+* Kommunikationstechnologien auswählen,
+* Prognose und Planung in CPS nutzen,
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+um später Cyber-Physische Systeme für reale Umgebungen (bspw. im Bereich Industrie 5.0, Smart City, …) in Teams modellieren und analysieren zu können.
 
-## Resources
+---
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+## Vorlesungen
 
-## Assignments
+Die Vorlesungen finden wöchentlich mittwochs statt (9:30–11:00 Uhr, Raum 3.113 bzw. Raum 1.242 am Campus Gummersbach). In den Vorlesungen werden die theoretischen Grundlagen cyber-physischer Systeme vermittelt und durch praxisnahe Beispiele veranschaulicht.
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+Jede Vorlesungseinheit behandelt ein spezifisches Thema aus dem Bereich der cyber-physischen Systeme. Die Vorlesungen sind so gestaltet, dass sie aufeinander aufbauen und ein umfassendes Verständnis der Materie ermöglichen.
+
+---
+
+## Übungen
+
+Direkt im Anschluss an die Vorlesungen finden mittwochs die praktischen Übungen statt (11:00–12:00 Uhr). In den Übungen haben die Studierenden die Möglichkeit, das in der Vorlesung Gelernte direkt anzuwenden, auf Hardware oder in Simulationen zu erproben und zu vertiefen.
+
+---
+
+## Kursinhalt & Wochenübersicht
+
+Der Kurs erstreckt sich über 14 Wochen mit jeweils einem Vorlesungs- und Übungstermin pro Woche (Mittwoch):
+
+| Woche | Datum | Thema | Beschreibung & Schwerpunkte |
+| :--- | :--- | :--- | :--- |
+| **Woche 1** | 30.09. | Organisation & Einführung in CPS | Einführung in das Modul sowie in grundlegende Konzepte cyber-physischer Systeme. |
+| **Woche 2** | 07.10. | Sensoren und Aktoren | Überblick über Sensorik und Aktorik in CPS inkl. Laborführung in Raum 1.242. |
+| **Woche 3** | 14.10. | Modellierung der Umgebung, Teil 1 | Einführung in Umgebungsmodelle und Deep Learning Verfahren für CPS. |
+| **Woche 4** | 21.10. | Modellierung der Umgebung, Teil 2 | Fortgeschrittene Umgebungsmodellierung und Simultaneous Localization and Mapping (SLAM). |
+| **Woche 5** | 28.10. | Robot Operating System | Konzepte, Knoten, Themen und praktische Anwendung von ROS als Betriebssystem für CPS. |
+| **Woche 6** | 04.11. | Modellierung von CPS | Formale Modellierungsmethoden und Systemarchitekturen cyber-physischer Systeme. |
+| **Woche 7** | 11.11. | Zustandsschätzung: Kalman-Filter 1 | Grundlagen der Zustandsschätzung, stochastische Prozesse und linearer Kalman-Filter. |
+| **Woche 8** | 25.11. | Zustandsschätzung: Kalman-Filter 2 | Erweiterte Verfahren der Zustandsschätzung (z. B. Extended/Unscented Kalman-Filter). |
+| **Woche 9** | 02.12. | Prognose und Planung | Trajektorienplanung, Bewegungssteuerung und Prädiktion im Raum. |
+| **Woche 10** | 09.12. | Kommunikation & Embedded Machine Learning | Vernetzung und Verhandlung in CPS sowie Einsatz von Machine Learning auf eingebetteter Hardware. |
+| **Woche 11** | 16.12. | Sensorfusion | Kombination verschiedener Sensordaten zur präzisen Orientierungs- und Positionsschätzung. |
+| **Woche 12** | 13.01. | Vertiefung & Spezialthemen | Ergänzende und vertiefende Themenstellungen cyber-physischer Systeme. |
+| **Woche 13** | 20.01. | Vertiefung & Projektarbeit | Vorbereitung und Feinschliff der Projektarbeiten und -präsentationen. |
+| **Woche 14** | 27.01. | Vorstellung Ihrer Projekte | Präsentation und Demonstration der entwickelten CPS-Projekte im Labor (Raum 1.242). |
+
+---
+
+## Ressourcen
+
+Alle Kursmaterialien, einschließlich Folien und Übungsblätter, werden über diese Website bereitgestellt. Zusätzlich werden in der Sektion [Materialien](material.md) weitere Ressourcen wie weiterführende Literatur, Online-Kurse, Tutorials und Tools aufgelistet.
+
+---
+
+## Prüfungsleistung
+
+Informationen zur Prüfungsleistung, Altklausuren und Terminankündigungen finden Sie auf der Seite [Prüfungsleistung](pruefungsleistung.md).
