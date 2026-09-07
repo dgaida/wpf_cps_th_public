@@ -45,6 +45,12 @@ Niryo NED2 (Kollaborativer 6-Achs-Roboterarm)
 [![Niryo NED2](https://docs.niryo.com/robots/ned2/source/_static/img/ned2.png)](https://docs.niryo.com/robots/ned2/)
 *Quelle / Bildnachweis:* [Niryo NED2 Offizielle Dokumentation](https://docs.niryo.com/robots/ned2/)
 
+#### Download
+
+Laden Sie das Quellcode-Paket für das Praktikum herunter:
+
+- [📄 niryo_ned2.zip]({{ '/assets/praktikum/niryo_ned2.zip' | relative_url }})  
+
 ---
 
 ### TurtleBot 4 & ROS 2
