@@ -18,17 +18,7 @@ nav_order: 1
 
 ## Modulübersicht
 
-Das Modul **Cyber-Physische Systeme** ist ein Wahlpflichtfach an der Technischen Hochschule Köln. Ziel des Moduls ist es, Studierenden fundierte Kenntnisse zur Modellierung, Steuerung und Vernetzung cyber-physischer Systeme (CPS) – wie beispielsweise Roboterarmen und autonom fahrenden Plattformen – zu vermitteln.
-
-### Lernziele
-Die Studierenden können Komponenten eines Cyber-Physischen Systems (CPS) designen (am Beispiel eines Roboterarms und einer autonom fahrenden Plattform), indem sie:
-* Cyber-physische Systeme modellieren und deren aktuellen Zustand schätzen,
-* Sensoren und Aktoren nutzen,
-* Algorithmen zur Modellierung der Umgebung auswählen und auf eingebetteter Hardware implementieren,
-* Kommunikationstechnologien auswählen,
-* Prognose und Planung in CPS nutzen,
-
-um später Cyber-Physische Systeme für reale Umgebungen (bspw. im Bereich Industrie 5.0, Smart City, …) in Teams modellieren und analysieren zu können.
+Das Modul **Cyber-Physische Systeme** ist ein Wahlpflichtfach an der Technischen Hochschule Köln am Campus Gummersbach. Ziel des Moduls ist es, Studierenden fundierte Kenntnisse zur Modellierung, Steuerung und Vernetzung cyber-physischer Systeme (CPS) – wie beispielsweise Roboterarmen und autonom fahrenden Plattformen – zu vermitteln.
 
 ---
 
@@ -58,13 +48,13 @@ Der Kurs erstreckt sich über 14 Wochen mit jeweils einem Vorlesungs- und Übung
 | **Woche 4** | 21.10. | Modellierung der Umgebung, Teil 2 | Fortgeschrittene Umgebungsmodellierung und Simultaneous Localization and Mapping (SLAM). |
 | **Woche 5** | 28.10. | Robot Operating System | Konzepte, Knoten, Themen und praktische Anwendung von ROS als Betriebssystem für CPS. |
 | **Woche 6** | 04.11. | Modellierung von CPS | Formale Modellierungsmethoden und Systemarchitekturen cyber-physischer Systeme. |
-| **Woche 7** | 11.11. | Zustandsschätzung: Kalman-Filter 1 | Grundlagen der Zustandsschätzung, stochastische Prozesse und linearer Kalman-Filter. |
-| **Woche 8** | 25.11. | Zustandsschätzung: Kalman-Filter 2 | Erweiterte Verfahren der Zustandsschätzung (z. B. Extended/Unscented Kalman-Filter). |
-| **Woche 9** | 02.12. | Prognose und Planung | Trajektorienplanung, Bewegungssteuerung und Prädiktion im Raum. |
-| **Woche 10** | 09.12. | Kommunikation & Embedded Machine Learning | Vernetzung und Verhandlung in CPS sowie Einsatz von Machine Learning auf eingebetteter Hardware. |
-| **Woche 11** | 16.12. | Sensorfusion | Kombination verschiedener Sensordaten zur präzisen Orientierungs- und Positionsschätzung. |
-| **Woche 12** | 13.01. | Vertiefung & Spezialthemen | Ergänzende und vertiefende Themenstellungen cyber-physischer Systeme. |
-| **Woche 13** | 20.01. | Vertiefung & Projektarbeit | Vorbereitung und Feinschliff der Projektarbeiten und -präsentationen. |
+| **Woche 7** | 11.11. | Zustandsschätzung: Kalman-Filter | Grundlagen der Zustandsschätzung, stochastische Prozesse und lineares Kalman-Filter. |
+| **Woche 8** | 25.11. | Prognose und Planung | Trajektorienplanung, Bewegungssteuerung und Prädiktion im Raum. |
+| **Woche 9** | 02.12. | Kommunikation & Embedded Machine Learning | Vernetzung und Verhandlung in CPS sowie Einsatz von Machine Learning auf eingebetteter Hardware. |
+| **Woche 10** | 09.12. | Sensorfusion | Kombination verschiedener Sensordaten zur präzisen Orientierungs- und Positionsschätzung. |
+| **Woche 11** | 16.12. | Projekte | Individuelle Arbeit an praktischen Projekten als Gruppe |
+| **Woche 12** | 13.01. | Projekte | Individuelle Arbeit an praktischen Projekten als Gruppe |
+| **Woche 13** | 20.01. | Projekte | Individuelle Arbeit an praktischen Projekten als Gruppe |
 | **Woche 14** | 27.01. | Vorstellung Ihrer Projekte | Präsentation und Demonstration der entwickelten CPS-Projekte im Labor (Raum 1.242). |
 
 ---
@@ -77,4 +67,4 @@ Alle Kursmaterialien, einschließlich Folien und Übungsblätter, werden über d
 
 ## Prüfungsleistung
 
-Informationen zur Prüfungsleistung, Altklausuren und Terminankündigungen finden Sie auf der Seite [Prüfungsleistung](pruefungsleistung.md).
+Informationen zur Prüfungsleistung finden Sie auf der Seite [Prüfungsleistung](pruefungsleistung.md).
