@@ -62,6 +62,12 @@ TurtleBot 4 (Mobiles Robotiksystem)
 [![TurtleBot 4](https://turtlebot.github.io/turtlebot4-user-manual/media/TurtleBot4.jpg)](https://turtlebot.github.io/turtlebot4-user-manual/)
 *Quelle / Bildnachweis:* [TurtleBot 4 User Manual (Clearpath Robotics / Open Robotics)](https://turtlebot.github.io/turtlebot4-user-manual/)
 
+#### Download
+
+Laden Sie das Quellcode-Paket für das Praktikum herunter:
+
+- [📄 turtlebot.zip]({{ '/assets/praktikum/turtlebot.zip' | relative_url }})  
+
 ---
 
 ### WidowX-250s Roboterarm
