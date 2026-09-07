@@ -14,7 +14,7 @@ Wahlpflichtfach an der Technischen Hochschule Köln
 
 ## Learning Outcomes
 
-Die Studierenden können Komponenten eines Cyber-Physischen Systems (CPS) designen, am Beispiel eines Roboterarms und einer autonom fahrenden Plattform, indem sie
+Die Studierenden können Komponenten eines Cyber-Physischen Systems (CPS) designen, am Beispiel von Roboterarmen, autonom fahrenden Plattformen und eingebetteter Hardware, indem sie
 
 * Cyber-physische Systeme modellieren und deren aktuellen Zustand schätzen,
 * Sensoren und Aktoren nutzen,
@@ -22,7 +22,7 @@ Die Studierenden können Komponenten eines Cyber-Physischen Systems (CPS) design
 * Kommunikationstechnologien auswählen,
 * Prognose und Planung in CPS nutzen,
 
-um später Cyber-Physische Systeme für reale Umgebungen (bspw. im Bereich Industrie 5.0, Smart City, …) in Teams modellieren und analysieren zu können.
+um später Cyber-Physische Systeme für reale Umgebungen (bspw. im Bereich Industrie 5.0, Autonomes Fahren, Smart City, …) in Teams modellieren und analysieren zu können.
 
 ## Über diesen Kurs
 
