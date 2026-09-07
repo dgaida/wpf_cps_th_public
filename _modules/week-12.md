@@ -1,12 +1,12 @@
 ---
-title: "Woche 12 - tbd"
+title: "Woche 12 - Arbeit an Ihren Projekten"
 ---
 
 13.01.
-: **Vorlesung**{: .label .label-purple }[tbd](#)
-  : Raum 3.113, 9:30-11:00
+: **Übung**{: .label .label-blue }[Arbeit an Ihren Projekten](#)
+  : Raum 1.242, 9:30-11:00
 
 13.01.
-: **Übung**{: .label .label-blue }[tbd](#)
-  : Raum 3.113, 11:00-12:00
+: **Übung**{: .label .label-blue }[Arbeit an Ihren Projekten](#)
+  : Raum 1.242, 11:00-12:00
 
