@@ -79,6 +79,12 @@ WidowX-250s (6DOF Roboterarm)
 [![WidowX-250s Robot Arm](https://docs.trossenrobotics.com/interbotix_xsarms_docs/_images/xsarm_family.png)](https://docs.trossenrobotics.com/interbotix_xsarms_docs/)
 *Quelle / Bildnachweis:* [Interbotix X-Series Manipulators Documentation (Trossen Robotics)](https://docs.trossenrobotics.com/interbotix_xsarms_docs/)
 
+#### Download
+
+Laden Sie das Quellcode-Paket für das Praktikum herunter:
+
+- [📄 widowx250s.zip]({{ '/assets/praktikum/widowx250s.zip' | relative_url }})  
+
 ---
 
 ## 🚀 Fortgeschrittene Praktika (Fortgeschritten)
