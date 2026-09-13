@@ -25,7 +25,7 @@ Im Rahmen dieses Praktikums wird ein 2D-Kalman-Filter zur präzisen Lokalisierun
 
 **Genutzte Hardware / Simulation:**
 AirSim 2D Simulation (Simuliertes Fahrzeug)
-![AirSim Simulation]({{ '/praktikum/kalman_localization_2d/docs/images/airsimcarsim.png' | relative_url }})
+![AirSim Simulation]({{ '/assets/praktikum/airsimcarsim.png' | relative_url }})
 
 #### Download
 
