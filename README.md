@@ -10,7 +10,7 @@ seo:
 
 # Cyber-Physische Systeme
 
-Wahlpflichtfach an der Technischen Hochschule Köln
+Wahlpflichtfach an der Technischen Hochschule Köln am Campus Gummersbach
 
 ## Learning Outcomes
 
