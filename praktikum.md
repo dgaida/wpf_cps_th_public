@@ -52,6 +52,15 @@ Laden Sie das Quellcode-Paket für das Praktikum herunter:
 
 ---
 
+### Raspberry Pi 5 & AI HAT+ 2 (Edge-AI & LLMs)
+
+In diesem Praktikum evaluieren die Studierenden moderne Edge-AI-Hardwarebeschleunigung auf dem Raspberry Pi 5 in Kombination mit dem Raspberry Pi AI HAT+ 2 (26 TOPS Hailo-8 NPU). Das Praktikum umfasst zwei zentrale Kernaufgaben: (1) Echtzeit-Objektdetektion im Kamerastream (Intel RealSense D415) mittels Ultralytics YOLO (YOLOv8 / YOLOE / YOLO26) und (2) die lokale Ausführung generativer Sprachmodelle (LLMs wie Llama-3.2-1B oder Qwen2.5-1.5B) via Hailo GenAI, inkl. Messung der Inferenzrate (FPS bzw. Tokens/s) und Systemauslastung.
+
+**Genutzte Hardware:**
+Raspberry Pi 5, Raspberry Pi AI HAT+ 2 (Hailo-8 NPU) & Intel RealSense D415
+
+---
+
 ### TurtleBot 4 & ROS 2
 
 Dieses Praktikum vermittelt die Grundlagen verteilter Robotiksysteme in Robot Operating System 2 (ROS 2 Humble) auf dem TurtleBot 4. Die Studierenden entwickeln eigene Python-Nodes (`rclpy`), arbeiten mit Publish-Subscribe-Topics sowie Services und steuern Roboter kinematic-basiert in der Simulation und auf realer Hardware.
