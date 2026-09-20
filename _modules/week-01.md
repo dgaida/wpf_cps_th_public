@@ -13,3 +13,4 @@ title: "Woche 1 - Organisation, Einführung in CPS"
   : **Materialien:**
     - [📄 CPS Einführung](/wpf_dlml_th_public/assets/slides/01_CPS_Einführung.pdf)  
     - [📄 CPS Einführung animated](/wpf_dlml_th_public/assets/slides/01_CPS_Einführung_animated.pdf)  
+    - [📄 CPS Organisatorisches](/wpf_dlml_th_public/assets/slides/01_CPS_Organisatorisches.pdf)  
