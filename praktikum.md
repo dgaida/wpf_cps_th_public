@@ -11,9 +11,9 @@ Auf dieser Seite finden Sie die Übersicht und Materialien zu allen Praktikumsau
 
 ## 👥 Organisation & Durchführung
 
-Die Praktika werden in **3er-Teams** durchgeführt. Jedes Team absolviert im Laufe des Semesters insgesamt **vier Praktikumsaufgaben**:
-- **Drei einführende Praktika** (*Einführung*)
-- **Ein fortgeschrittenes Praktikum** (*Fortgeschritten*)
+Die Praktika werden in **3er-Teams** durchgeführt. Jedes Team absolviert im Laufe des Semesters insgesamt **vier Praktikumsaufgaben**:  
+- **Drei einführende Praktika** (*Einführung*)  
+- **Ein fortgeschrittenes Praktikum** (*Fortgeschritten*)  
 
 ---
 
