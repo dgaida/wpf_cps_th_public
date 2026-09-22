@@ -11,9 +11,9 @@ Auf dieser Seite finden Sie die Übersicht und Materialien zu allen Praktikumsau
 
 ## 👥 Organisation & Durchführung
 
-Die Praktika werden in **3er-Teams** durchgeführt. Jedes Team absolviert im Laufe des Semesters insgesamt **drei Praktikumsaufgaben**:  
-- **Zwei einführende Praktika** (*Einführung*)  
-- **Ein fortgeschrittenes Praktikum** (*Fortgeschritten*)  
+Die Praktika werden in **3er-Teams** durchgeführt. Jedes Team absolviert im Laufe des Semesters insgesamt **vier Praktikumsaufgaben**:
+- **Drei einführende Praktika** (*Einführung*)
+- **Ein fortgeschrittenes Praktikum** (*Fortgeschritten*)
 
 ---
 
@@ -32,6 +32,17 @@ AirSim 2D Simulation (Simuliertes Fahrzeug)
 Laden Sie das Quellcode-Paket für das Praktikum herunter:
 
 - [📄 kalman_localization_2d.zip]({{ '/assets/praktikum/kalman_localization_2d.zip' | relative_url }})  
+
+---
+
+### LIMO Cobot Einführung (Inbetriebnahme, App & Demos)
+
+In diesem einführenden Praktikum lernen die Studierenden die Grundlagen des mobilen Robotersystems AgileX LIMO Cobot kennen. Sie richten die Steuerung per Mobile App ein, stellen eine Remote-Desktop-Verbindung via NoMachine her und führen praktische Demos zur 2D-Kartierung (SLAM) sowie optischen Texterkennung (Vision Text Recognition) durch.
+
+**Genutzte Hardware:**
+AgileX LIMO Cobot (Mobiles Robotiksystem)
+[![AgileX LIMO Cobot](https://global.agilex.ai/assets/limo_cobot.jpg)](https://global.agilex.ai/products/limo-cobot)
+*Quelle / Bildnachweis:* [AgileX Robotics LIMO Cobot](https://global.agilex.ai/products/limo-cobot)
 
 ---
 
