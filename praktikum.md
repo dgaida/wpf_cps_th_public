@@ -89,6 +89,12 @@ Laden Sie das Quellcode-Paket für das Praktikum herunter:
 
 ---
 
+### Turtle Train (Multi-Roboter Formationsfahrt mit TF2)
+
+In diesem Praktikum setzen die Studierenden das ROS 2 TF2 Transformations-Framework zur Realisierung einer Mehrroboter-Formationsfahrt (**Turtle Train**) ein. Auf Basis der beliebten ROS-Videoreihe von Shawn Hymel (DigiKey) entwickeln die Studierenden TF2 Broadcaster und Listener zur dynamischen Abstandskontrolle in der Turtlesim-Simulation sowie auf realen mobilen Robotern (TurtleBot 4 und LIMO Cobot).
+
+---
+
 ### WidowX-250s Roboterarm
 
 Dieses Praktikum behandelt die kinematiche Modellierung und Steuerung des hochpräzisen 6DOF-Roboterarms WidowX-250s von Interbotix. Mittels Interbotix Python SDK berechnen die Studierenden Vorwärts- und Inverse Kinematik, planen dreidimensionale Trajektorien und setzen Pick-and-Place-Manöver um.
