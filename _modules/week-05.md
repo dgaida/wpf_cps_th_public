@@ -11,5 +11,5 @@ title: "Woche 5 - Robot Operating System"
   : Raum 3.113, 11:00-12:00
 
   : **Materialien:**
-    - [📄 CPS OSfCPS ROS](/wpf_dlml_th_public/assets/slides/05_CPS_OSfCPS_ROS.pdf)  
-    - [📄 CPS OSfCPS ROS animated](/wpf_dlml_th_public/assets/slides/05_CPS_OSfCPS_ROS_animated.pdf)  
+    - [📄 CPS OSfCPS ROS](/wpf_cps_th_public/assets/slides/05_CPS_OSfCPS_ROS.pdf)  
+    - [📄 CPS OSfCPS ROS animated](/wpf_cps_th_public/assets/slides/05_CPS_OSfCPS_ROS_animated.pdf)  
