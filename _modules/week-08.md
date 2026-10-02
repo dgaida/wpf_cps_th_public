@@ -10,6 +10,6 @@ title: "Woche 8 - Prognose und Planung"
 : **Übung**{: .label .label-blue }[Prognose und Planung](#)
   : Raum 3.113, 11:00-12:00
 
-  : **Materialien:**  
+  : **Materialien:**
     - [📄 CPS Prognose Planung](/wpf_cps_th_public/assets/slides/08_CPS_Prognose_Planung.pdf)  
     - [📄 CPS Prognose Planung animated](/wpf_cps_th_public/assets/slides/08_CPS_Prognose_Planung_animated.pdf)  
