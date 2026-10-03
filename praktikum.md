@@ -19,6 +19,17 @@ Die Praktika werden in **3er-Teams** durchgeführt. Jedes Team absolviert im Lau
 
 ## 🟢 Einführende Praktika (Einführung)
 
+### Deep Robotics Lite3 LiDAR (Inbetriebnahme, Fernsteuerung & ROS Integration)
+
+In diesem einführenden Praktikum lernen die Studierenden die Grundlagen des vierbeinigen Laufroboters (Quadruped) Deep Robotics Lite3 LiDAR kennen. Sie führen die sichere Inbetriebnahme durch, steuern den Roboter über die mitgelieferte Handheld-Fernsteuerung (Controller) in verschiedenen Laufmodi und stellen eine Netzwerkanbindung zu einem Ubuntu-Hostrechner her, um ROS / ROS 2-Topics (wie `/cmd_vel`, `/odom`, `/joint_states` und `/imu/data`) über CLI-Tools und ein eigenes Python-Skript auszulesen.
+
+**Genutzte Hardware:**
+Deep Robotics Lite3 LiDAR (Vierbeiniger Laufroboter / Quadruped)
+[![Deep Robotics Lite3](https://www.deeprobotics.us/wp-content/uploads/2023/10/lite3.jpg)](https://www.deeprobotics.us/products/lite-3/)
+*Quelle / Bildnachweis:* [Deep Robotics Lite3 Produktseite](https://www.deeprobotics.us/products/lite-3/)
+
+---
+
 ### Kalman-Filter 2D Lokalisierung
 
 Im Rahmen dieses Praktikums wird ein 2D-Kalman-Filter zur präzisen Lokalisierung eines autonom fahrenden Fahrzeugs in der fotorealistischen Simulationsumgebung AirSim (Neighborhood) entwickelt. Die Studierenden verarbeiten verrauschte GPS-, IMU- und Odometriedaten, um den Systemzustand fortlaufend zu schätzen und im Echtzeit-Plot zu evaluieren.
