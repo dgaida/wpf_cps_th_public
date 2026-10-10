@@ -145,6 +145,12 @@ AgileX LIMO Cobot (Mobile Manipulationsplattform)
 [![AgileX LIMO Cobot](https://global.agilex.ai/assets/limo_cobot.jpg)](https://global.agilex.ai/products/limo-cobot)
 *Quelle / Bildnachweis:* [AgileX Robotics LIMO Cobot](https://global.agilex.ai/products/limo-cobot)
 
+#### Download
+
+Laden Sie das Quellcode-Paket für das Praktikum herunter:
+
+- [📄 limo_cobot.zip]({{ '/assets/praktikum/limo_cobot.zip' | relative_url }})  
+
 ---
 
 ### LIMO Überholt TurtleBot
