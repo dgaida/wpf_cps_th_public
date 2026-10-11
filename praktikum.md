@@ -162,6 +162,12 @@ AgileX LIMO Cobot & TurtleBot 4
 [![TurtleBot 4](https://turtlebot.github.io/turtlebot4-user-manual/media/TurtleBot4.jpg)](https://turtlebot.github.io/turtlebot4-user-manual/)
 *Quelle / Bildnachweis:* [TurtleBot 4 User Manual (Clearpath Robotics / Open Robotics)](https://turtlebot.github.io/turtlebot4-user-manual/)
 
+#### Download
+
+Laden Sie das Quellcode-Paket für das Praktikum herunter:
+
+- [📄 limo_overtaking_turtlebot.zip]({{ '/assets/praktikum/limo_overtaking_turtlebot.zip' | relative_url }})  
+
 ---
 
 ### Niryo Objektdetektion & Turmbau
