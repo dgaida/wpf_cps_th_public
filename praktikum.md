@@ -179,6 +179,12 @@ Niryo NED2 & Intel RealSense D435
 [![Niryo NED2](https://docs.niryo.com/robots/ned2/source/_static/img/ned2.png)](https://docs.niryo.com/robots/ned2/)
 *Quelle / Bildnachweis:* [Niryo NED2 Offizielle Dokumentation](https://docs.niryo.com/robots/ned2/)
 
+#### Download
+
+Laden Sie das Quellcode-Paket für das Praktikum herunter:
+
+- [📄 niryo_object_detection.zip]({{ '/assets/praktikum/niryo_object_detection.zip' | relative_url }})  
+
 ---
 
 ### TurtleBot Orientierungsschätzung (Kalman)
