@@ -25,14 +25,14 @@ In diesem einführenden Praktikum lernen die Studierenden die Grundlagen des vie
 
 **Genutzte Hardware:**
 Deep Robotics Lite3 LiDAR (Vierbeiniger Laufroboter / Quadruped)
-[![Deep Robotics Lite3](https://www.deeprobotics.us/wp-content/uploads/2023/10/lite3.jpg)](https://www.deeprobotics.us/products/lite-3/)
+[![Deep Robotics Lite3](https://www.deeprobotics.us/wp-content/uploads/2025/07/deep-robotics-lite3-quadruped-robot.png)](https://www.deeprobotics.us/products/lite-3/)
 *Quelle / Bildnachweis:* [Deep Robotics Lite3 Produktseite](https://www.deeprobotics.us/products/lite-3/)
 
 #### Download
 
 Laden Sie das Quellcode-Paket für das Praktikum herunter:
 
-- [📄 deeprobotics_lite3.zip]({{ '/assets/praktikum/deeprobotics_lite3.zip' | relative_url }})
+- [📄 deeprobotics_lite3.zip]({{ '/assets/praktikum/deeprobotics_lite3.zip' | relative_url }})  
 
 ---
 
@@ -65,7 +65,7 @@ AgileX LIMO Cobot (Mobiles Robotiksystem)
 
 Laden Sie das Quellcode-Paket für das Praktikum herunter:
 
-- [📄 limo_cobot_intro.zip]({{ '/assets/praktikum/limo_cobot_intro.zip' | relative_url }})
+- [📄 limo_cobot_intro.zip]({{ '/assets/praktikum/limo_cobot_intro.zip' | relative_url }})  
 
 ---
 
@@ -143,7 +143,7 @@ In diesem Praktikum entwickeln die Studierenden eine verteilte, intelligente Rob
 
 **Genutzte Hardware:**
 Arduino Portenta H7, Portenta Vision Shield & Arduino Nicla Sense ME
-[![Arduino Portenta H7](https://docs.arduino.cc/static/235f3dfd9f9661bd687258bf7a1cd1f5/39564/portenta-h7.jpg)](https://docs.arduino.cc/hardware/portenta-h7/)
+[![Arduino Portenta H7](https://store.arduino.cc/cdn/shop/files/ABX00042_00.iso_1200x900.jpg)](https://docs.arduino.cc/hardware/portenta-h7/)
 *Quelle / Bildnachweis:* [Arduino Docs (Arduino S.r.l.)](https://docs.arduino.cc/hardware/portenta-h7/)
 
 ---
@@ -205,14 +205,14 @@ In dieser Aufgabe wird der TurtleBot 4 um einen externen Sensorknoten (Arduino N
 
 **Genutzte Hardware:**
 TurtleBot 4 & Arduino Nicla Sense ME
-[![Arduino Nicla Sense ME](https://docs.arduino.cc/static/f509e51cce66aeecff4b9c1dcecb8cf5/39564/nicla-sense-me.jpg)](https://docs.arduino.cc/hardware/nicla-sense-me/)
+[![Arduino Nicla Sense ME](https://store.arduino.cc/cdn/shop/files/ABX00050_03.front_1200x900.jpg)](https://docs.arduino.cc/hardware/nicla-sense-me/)
 *Quelle / Bildnachweis:* [Arduino Docs (Arduino S.r.l.)](https://docs.arduino.cc/hardware/nicla-sense-me/)
 
 #### Download
 
 Laden Sie das Quellcode-Paket für das Praktikum herunter:
 
-- [📄 turtlebot_orientation_kalman.zip]({{ '/assets/praktikum/turtlebot_orientation_kalman.zip' | relative_url }})
+- [📄 turtlebot_orientation_kalman.zip]({{ '/assets/praktikum/turtlebot_orientation_kalman.zip' | relative_url }})  
 
 ---
 
