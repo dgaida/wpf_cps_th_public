@@ -28,6 +28,12 @@ Deep Robotics Lite3 LiDAR (Vierbeiniger Laufroboter / Quadruped)
 [![Deep Robotics Lite3](https://www.deeprobotics.us/wp-content/uploads/2023/10/lite3.jpg)](https://www.deeprobotics.us/products/lite-3/)
 *Quelle / Bildnachweis:* [Deep Robotics Lite3 Produktseite](https://www.deeprobotics.us/products/lite-3/)
 
+#### Download
+
+Laden Sie das Quellcode-Paket für das Praktikum herunter:
+
+- [📄 deeprobotics_lite3.zip]({{ '/assets/praktikum/deeprobotics_lite3.zip' | relative_url }})
+
 ---
 
 ### Kalman-Filter 2D Lokalisierung
@@ -54,6 +60,12 @@ In diesem einführenden Praktikum lernen die Studierenden die Grundlagen des mob
 AgileX LIMO Cobot (Mobiles Robotiksystem)
 [![AgileX LIMO Cobot](https://static.elephantrobotics.com/wp-content/uploads/2024/01/LIMO-Cobot%E4%B8%BB%E5%9B%BE20240118-800x450.png)](https://www.elephantrobotics.com/en/limo-cobot-en/)
 *Quelle / Bildnachweis:* [Elephant Robotics LIMO Cobot](https://www.elephantrobotics.com/en/limo-cobot-en/)
+
+#### Download
+
+Laden Sie das Quellcode-Paket für das Praktikum herunter:
+
+- [📄 limo_cobot_intro.zip]({{ '/assets/praktikum/limo_cobot_intro.zip' | relative_url }})
 
 ---
 
@@ -195,6 +207,12 @@ In dieser Aufgabe wird der TurtleBot 4 um einen externen Sensorknoten (Arduino N
 TurtleBot 4 & Arduino Nicla Sense ME
 [![Arduino Nicla Sense ME](https://docs.arduino.cc/static/f509e51cce66aeecff4b9c1dcecb8cf5/39564/nicla-sense-me.jpg)](https://docs.arduino.cc/hardware/nicla-sense-me/)
 *Quelle / Bildnachweis:* [Arduino Docs (Arduino S.r.l.)](https://docs.arduino.cc/hardware/nicla-sense-me/)
+
+#### Download
+
+Laden Sie das Quellcode-Paket für das Praktikum herunter:
+
+- [📄 turtlebot_orientation_kalman.zip]({{ '/assets/praktikum/turtlebot_orientation_kalman.zip' | relative_url }})
 
 ---
 
