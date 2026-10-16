@@ -21,7 +21,7 @@ Die Praktika werden in **3er-Teams** durchgeführt. Jedes Team absolviert im Lau
 
 ### Deep Robotics Lite3 LiDAR (Inbetriebnahme, Fernsteuerung & ROS Integration)
 
-In diesem einführenden Praktikum lernen die Studierenden die Grundlagen des vierbeinigen Laufroboters (Quadruped) Deep Robotics Lite3 LiDAR kennen. Sie führen die sichere Inbetriebnahme durch, steuern den Roboter über die mitgelieferte Handheld-Fernsteuerung (Controller) in verschiedenen Laufmodi und stellen eine Netzwerkanbindung zu einem Ubuntu-Hostrechner her, um ROS / ROS 2-Topics (wie `/cmd_vel`, `/odom`, `/joint_states` und `/imu/data`) über CLI-Tools und ein eigenes Python-Skript auszulesen.
+In diesem einführenden Praktikum lernen die Studierenden die Grundlagen des vierbeinigen Laufroboters (Quadruped) Deep Robotics Lite3 LiDAR kennen. Sie führen die sichere Inbetriebnahme durch, steuern den Roboter mit dem Handheld, verbinden sich über das Roboter-WLAN per SSH und NoMachine mit dem Perception Host und starten dort die Treiber von LiDAR und Tiefenkamera, um ROS 2-Topics (wie `/rslidar_points`, `/imu/data` und das Tiefenbild) über CLI-Tools und ein eigenes Python-Skript auszulesen.
 
 **Genutzte Hardware:**
 Deep Robotics Lite3 LiDAR (Vierbeiniger Laufroboter / Quadruped)
@@ -46,14 +46,14 @@ Laden Sie das Quellcode-Paket für das Praktikum herunter:
 
 ---
 
-### LIMO Cobot Einführung (Inbetriebnahme, App & Demos)
+### LIMO Cobot Einführung (Inbetriebnahme, Tastatursteuerung & Demos)
 
-In diesem einführenden Praktikum lernen die Studierenden die Grundlagen des mobilen Robotersystems AgileX LIMO Cobot kennen. Sie richten die Steuerung per Mobile App ein, stellen eine Remote-Desktop-Verbindung via NoMachine her und führen praktische Demos zur 2D-Kartierung (SLAM) sowie optischen Texterkennung (Vision Text Recognition) durch.
+In diesem einführenden Praktikum lernen die Studierenden die Grundlagen des mobilen Robotersystems AgileX LIMO Cobot kennen. Sie stellen eine Remote-Desktop-Verbindung via NoMachine her, steuern den Roboter per Tastatur über ROS und führen unter ROS 1 und ROS 2 praktische Demos zur 2D-Kartierung (SLAM), zur Farb- und Texterkennung mit der RGB-D-Kamera und zur Steuerung des Roboterarms myCobot 280 durch.
 
 **Genutzte Hardware:**
 AgileX LIMO Cobot (Mobiles Robotiksystem)
-[![AgileX LIMO Cobot](https://global.agilex.ai/assets/limo_cobot.jpg)](https://global.agilex.ai/products/limo-cobot)
-*Quelle / Bildnachweis:* [AgileX Robotics LIMO Cobot](https://global.agilex.ai/products/limo-cobot)
+[![AgileX LIMO Cobot](https://static.elephantrobotics.com/wp-content/uploads/2024/01/LIMO-Cobot%E4%B8%BB%E5%9B%BE20240118-800x450.png)](https://www.elephantrobotics.com/en/limo-cobot-en/)
+*Quelle / Bildnachweis:* [Elephant Robotics LIMO Cobot](https://www.elephantrobotics.com/en/limo-cobot-en/)
 
 ---
 
@@ -142,8 +142,8 @@ Dieses Praktikum kombiniert mobile Autonomie und Manipulation auf der AgileX LIM
 
 **Genutzte Hardware:**
 AgileX LIMO Cobot (Mobile Manipulationsplattform)
-[![AgileX LIMO Cobot](https://global.agilex.ai/assets/limo_cobot.jpg)](https://global.agilex.ai/products/limo-cobot)
-*Quelle / Bildnachweis:* [AgileX Robotics LIMO Cobot](https://global.agilex.ai/products/limo-cobot)
+[![AgileX LIMO Cobot](https://static.elephantrobotics.com/wp-content/uploads/2024/01/LIMO-Cobot%E4%B8%BB%E5%9B%BE20240118-800x450.png)](https://www.elephantrobotics.com/en/limo-cobot-en/)
+*Quelle / Bildnachweis:* [Elephant Robotics LIMO Cobot](https://www.elephantrobotics.com/en/limo-cobot-en/)
 
 #### Download
 
