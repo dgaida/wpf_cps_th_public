@@ -229,4 +229,4 @@ TurtleBot 4 (Mobiles Robotiksystem)
 
 Laden Sie das Quellcode-Paket für das Praktikum herunter:
 
-- [📄 turtlebot_path_planning.zip]({{ '/assets/praktikum/turtlebot_path_planning.zip' | relative_url }})
+- [📄 turtlebot_path_planning.zip]({{ '/assets/praktikum/turtlebot_path_planning.zip' | relative_url }})  
