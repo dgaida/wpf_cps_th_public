@@ -150,7 +150,7 @@ WidowX-250s & Niryo NED2
 
 Laden Sie das Quellcode-Paket für das Praktikum herunter:
 
-- [📄 niryo_ned2_wx250s.zip]({{ '/assets/praktikum/niryo_ned2_wx250s.zip' | relative_url }})
+- [📄 niryo_ned2_wx250s.zip]({{ '/assets/praktikum/niryo_ned2_wx250s.zip' | relative_url }})  
 
 ---
 
