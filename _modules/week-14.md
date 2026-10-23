@@ -4,7 +4,7 @@ title: "Woche 14 - Vorstellung Ihrer Projekte"
 
 27.01.
 : **Übung**{: .label .label-blue }[Vorstellung Ihrer Projekte](#)
-  : Raum 1.242, 9:30-11:00
+  : Raum 1.242, 9:00-11:00
 
 27.01.
 : **Übung**{: .label .label-blue }[Vorstellung Ihrer Projekte](#)
