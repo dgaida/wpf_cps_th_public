@@ -137,14 +137,20 @@ Laden Sie das Quellcode-Paket für das Praktikum herunter:
 
 ## 🚀 Fortgeschrittene Praktika (Fortgeschritten)
 
-### Embedded AI & Robotik mit Arduino
+### Leader-Follower-Synchronisation (WidowX-250s & Niryo NED2)
 
-In diesem Praktikum entwickeln die Studierenden eine verteilte, intelligente Roboterzelle zur automatisierten Bearbeitung. Ein Arduino Nicla Sense ME erfasst Lagedaten am Greifer des WidowX-250 via TinyML (Edge Impulse), während ein Arduino Portenta H7 mit Vision Shield Werkstücke erkennt und den Niryo NED2 über digitale Signale koordiniert.
+In diesem Praktikum setzen die Studierenden eine Echtzeit-Leader-Follower-Synchronisation zwischen zwei Roboterarmen um: Der WidowX-250s wird manuell geführt (Leader), während der Niryo NED2 (Follower) dessen Bewegungen, Greiferorientierung und Greiferzustand in Echtzeit nachvollzieht. Die Aufgabenstellung umfasst die kinematische Modellierung (Product of Exponentials), numerische inverse Kinematik, Arbeitsraumbegrenzung sowie die Ansteuerung über ROS 2, rosbridge oder pyniryo.
 
 **Genutzte Hardware:**
-Arduino Portenta H7, Portenta Vision Shield & Arduino Nicla Sense ME
-[![Arduino Portenta H7](https://store.arduino.cc/cdn/shop/files/ABX00042_00.iso_1200x900.jpg)](https://docs.arduino.cc/hardware/portenta-h7/)
-*Quelle / Bildnachweis:* [Arduino Docs (Arduino S.r.l.)](https://docs.arduino.cc/hardware/portenta-h7/)
+WidowX-250s & Niryo NED2
+[![WidowX-250s Robot Arm](https://docs.trossenrobotics.com/interbotix_xsarms_docs/_images/xsarm_family.png)](https://docs.trossenrobotics.com/interbotix_xsarms_docs/)
+*Quelle / Bildnachweis:* [Interbotix X-Series Manipulators Documentation (Trossen Robotics)](https://docs.trossenrobotics.com/interbotix_xsarms_docs/)
+
+#### Download
+
+Laden Sie das Quellcode-Paket für das Praktikum herunter:
+
+- [📄 niryo_ned2_wx250s.zip]({{ '/assets/praktikum/niryo_ned2_wx250s.zip' | relative_url }})
 
 ---
 
