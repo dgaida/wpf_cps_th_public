@@ -93,6 +93,12 @@ In diesem Praktikum evaluieren die Studierenden moderne Edge-AI-Hardwarebeschleu
 **Genutzte Hardware:**
 Raspberry Pi 5, Raspberry Pi AI HAT+ 2 (Hailo-8 NPU) & Intel RealSense D415
 
+#### Download
+
+Laden Sie das Quellcode-Paket für das Praktikum herunter:
+
+- [📄 rpi_ai_hat.zip]({{ '/assets/praktikum/rpi_ai_hat.zip' | relative_url }})  
+
 ---
 
 ### TurtleBot 4 & ROS 2
