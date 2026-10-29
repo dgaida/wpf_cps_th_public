@@ -10,7 +10,7 @@ title: "Woche 1 - Organisation, Einführung in CPS"
 : **Übung**{: .label .label-blue }[Organisation, Einführung in CPS](#)
   : Raum 3.113, 11:00-12:00
 
-  : **Materialien:**  
+  : **Materialien:**
     - [📄 CPS Einführung](/wpf_cps_th_public/assets/slides/01_CPS_Einführung.pdf)  
     - [📄 CPS Einführung animated](/wpf_cps_th_public/assets/slides/01_CPS_Einführung_animated.pdf)  
     - [📄 CPS Organisatorisches](/wpf_cps_th_public/assets/slides/01_CPS_Organisatorisches.pdf)  
