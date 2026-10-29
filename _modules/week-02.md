@@ -10,8 +10,8 @@ title: "Woche 2 - Sensoren und Aktoren, Laborführung Raum 1.242"
 : **Übung**{: .label .label-blue }[Sensoren und Aktoren, Laborführung Raum 1.242](#)
   : Raum 3.113, 11:00-12:00
 
-  : **Materialien:**  
+  : **Materialien:**
     - [📄 CPS Sensorik Aktorik](/wpf_cps_th_public/assets/slides/02_CPS_Sensorik_Aktorik.pdf)  
     - [📄 CPS Sensorik Aktorik animated](/wpf_cps_th_public/assets/slides/02_CPS_Sensorik_Aktorik_animated.pdf)  
-  : **Code:**  
+  : **Code:**
     - [📁 week 02](https://github.com/dgaida/wpf_cps_th_public/tree/main/assets/exercises/week_02)  
